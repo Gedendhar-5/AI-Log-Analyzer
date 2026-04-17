@@ -186,9 +186,9 @@ Visit `http://127.0.0.1:8000/docs` for full interactive API documentation.
 ## Screenshots
 
 
-### Analysis Result — Python Traceback
+### Analysis Result — Traceback
 
-> *[ paste your screenshot here ]*
+> ![Analysis Result](<result_screenshot.png>)
 
 
 ---
