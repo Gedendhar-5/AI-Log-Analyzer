@@ -185,21 +185,11 @@ Visit `http://127.0.0.1:8000/docs` for full interactive API documentation.
 
 ## Screenshots
 
-### Main UI — Log Input
-
-> *[ paste your screenshot here ]*
 
 ### Analysis Result — Python Traceback
 
 > *[ paste your screenshot here ]*
 
-### Severity Badge + Follow-up Questions
-
-> *[ paste your screenshot here ]*
-
-### Session History Sidebar
-
-> *[ paste your screenshot here ]*
 
 ---
 
